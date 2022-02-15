@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "DEPOSITOR_ROLE can be granted by the deployer of BribeVault and transfer briber's approved ERC20 tokens to bribeVault by specifying any bribeIdentifier and rewardIdentifier",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/1"
+}
