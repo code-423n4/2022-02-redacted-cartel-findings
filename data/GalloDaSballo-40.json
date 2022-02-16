@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "2",
+  "title": "BribeVault.emergencyWithdrawERC20 and BribeVault.emergencyWithdraw allow owner to take all funds out",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/40"
+}
