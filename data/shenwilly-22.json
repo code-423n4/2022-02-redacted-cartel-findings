@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bCFf10Fe0b3CA2A9DA1c58A1d",
+  "risk": "2",
+  "title": "Lack of input validation in `transferBribes()` can potentially freeze fund",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/22"
+}
