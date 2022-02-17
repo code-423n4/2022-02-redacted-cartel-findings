@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "NoamYakov",
+  "address": "0x972a7c4EE6d0988A010CafB09F794Cd1a169293F",
+  "risk": "3",
+  "title": "Use of `IERC20.transfer()` instead of `SafeERC20.safeTransfer()`",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/119"
+}
