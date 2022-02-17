@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "Omik",
+  "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
+  "risk": "2",
+  "title": "Missing briber check is equal to address(this), can cause imbalance between the bribe amount, and the actual balance that the contract has",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/114"
+}
