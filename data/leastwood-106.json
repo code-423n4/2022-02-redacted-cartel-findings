@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`RewardDistributor._claim()` Will Always Revert if The Recipient is a Contract",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/106"
+}
