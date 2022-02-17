@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] Improper control over the versions of distributions' metadata may lead to repeated claims of rewards",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/89"
+}
