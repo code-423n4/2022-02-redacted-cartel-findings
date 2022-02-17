@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H5] `RewardDistributor.setBribeVault()` can cause users who haven't claimed their native tokens yet can not claim the reward anymore",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/88"
+}
