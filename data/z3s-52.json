@@ -1,0 +1,9 @@
+{
+  "contest": 87,
+  "handle": "z3s",
+  "address": "0x99c5E30533E8677FF4789bAB9Dae4a97FA30bC47",
+  "risk": "2",
+  "title": "DEFAULT_ADMIN_ROLE has power to withdraw all fund may raise red flags for investors",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/52"
+}
