@@ -2,7 +2,7 @@
   "contest": 87,
   "handle": "cmichel",
   "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 29,
   "issueUrl": "https://github.com/code-423n4/2022-02-redacted-cartel-findings/issues/29"
